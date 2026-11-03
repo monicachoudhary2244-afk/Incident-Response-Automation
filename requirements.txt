@@ -1,0 +1,2 @@
+# Standard library only; no pip dependencies.
+# Desktop GUI requires Python with Tkinter and a local desktop display.
